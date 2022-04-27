@@ -1,0 +1,5 @@
+**/*.o
+**/*.pyc
+**/*.log
+**/build/
+**/.DS_Store
